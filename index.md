@@ -42,7 +42,7 @@
 | PmxEditor  | 0.2.5.4(x64) |
 
 ## ソフトの用意
-必須blenderのアドオン : [mmd_tools](https://github.com/sugiany/blender_mmd_tools "github.com/sugiany/blender_mmd_tools") はこちらからどうぞ
+必須blenderのアドオン : [mmd_tools](https://github.com/powroupi/blender_mmd_tools "github.com/powroupi/blender_mmd_tools") はこちらからどうぞ
 
 ## モデルを用意します
 ![001](images/001.png)
